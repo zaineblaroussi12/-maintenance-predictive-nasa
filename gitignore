@@ -1,0 +1,10 @@
+# Données NASA (à télécharger séparément, voir README)
+train_FD00*.txt
+test_FD00*.txt
+RUL_FD00*.txt
+
+# Fichiers temporaires
+.ipynb_checkpoints/
+__pycache__/
+venv/
+.env
